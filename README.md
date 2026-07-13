@@ -83,7 +83,7 @@ I care about building things that actually work — clean interfaces, solid APIs
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" title="Express.js"/>
 </p>
 
 <h3 align="center">Database</h3>
