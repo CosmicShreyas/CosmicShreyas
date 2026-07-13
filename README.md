@@ -12,7 +12,7 @@
 
 ### 👋 Hi, I'm Shreyas
 
-Software Engineer with **6+ years** of hands-on experience building production-grade frontend platforms, fullstack web applications, and AI-integrated tools. Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPath** (AI career advisor) and **Mindloom** (distraction-free publishing platform).
+Software Engineer with **8+ years** of hands-on experience building production-grade frontend platforms, fullstack web applications, and AI-integrated tools. Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPath** (AI career advisor) and **Mindloom** (distraction-free publishing platform).
 
 I care about building things that actually work — clean interfaces, solid APIs, and systems that scale.
 
