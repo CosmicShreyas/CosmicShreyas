@@ -159,4 +159,4 @@ I care about building things that actually work — clean interfaces, solid APIs
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:1a0533,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:340D6E,100:2F1457&height=120&section=footer" width="100%"/>
