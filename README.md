@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,100:a371f7&text=Shreyas&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Bengaluru%2C%20India&descSize=20&descColor=c9d1d9&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:1a0533,100:6e40c9&text=Shreyas&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Bengaluru%2C%20India&descSize=20&descColor=b392f0&descAlignY=58&stroke=6e40c9&strokeWidth=2" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=CosmicShreyas">
-    <img src="https://komarev.com/ghpvc/?username=CosmicShreyas&label=Profile%20views&color=a371f7&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=CosmicShreyas&label=Profile%20views&color=6e40c9&style=flat-square" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Bengaluru-India-a371f7?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-6e40c9?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bengaluru-India-1a0533?style=flat-square&logo=googlemaps&logoColor=b392f0" />
 </p>
 
 ---
@@ -47,6 +47,20 @@ I care about building things that actually work — clean interfaces, solid APIs
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/CosmicShreyas/javascript-algorithms-and-data-structures" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp JS Certificate" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/CosmicShreyas/javascript-algorithms-and-data-structures</sub>
+</p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -75,8 +89,8 @@ I care about building things that actually work — clean interfaces, solid APIs
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" title="MongoDB"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="MySQL"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" title="PostgreSQL"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="MySQL"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" title="Redis"/>
 </p>
 
@@ -99,20 +113,20 @@ I care about building things that actually work — clean interfaces, solid APIs
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CosmicShreyas&cache_seconds=7200&show_icons=true&theme=github_dark&border_radius=10&hide_border=true" alt="Shreyas's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CosmicShreyas&langs_count=6&layout=compact&theme=github_dark&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CosmicShreyas&cache_seconds=7200&show_icons=true&theme=midnight-purple&border_radius=10&hide_border=true&icon_color=6e40c9&title_color=b392f0" alt="Shreyas's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CosmicShreyas&langs_count=6&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true&title_color=b392f0" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CosmicShreyas&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=CosmicShreyas&theme=midnight-purple&hide_border=true&ring=6e40c9&fire=b392f0&currStreakLabel=b392f0&cache_seconds=86400" alt="GitHub Streak" width="55%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=CosmicShreyas&theme=onestar&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=CosmicShreyas&theme=discord&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicShreyas&theme=github-compact&radius=10&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicShreyas&theme=github-compact&radius=10&hide_border=true&color=b392f0&line=6e40c9&point=ffffff" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -122,8 +136,8 @@ I care about building things that actually work — clean interfaces, solid APIs
 ```
   Frontend & UI Engineering       ████████████████████  Expert
   Full Stack Web Applications     ███████████████░░░░░  Advanced
-  AI/ML Tooling & Agent Systems   ████████████░░░░░░░░  Intermediate
   Blockchain Development          ███████████████░░░░░  Advanced
+  AI/ML Tooling & Agent Systems   ████████████░░░░░░░░  Intermediate
   Open Source Contribution        ████████░░░░░░░░░░░░  Growing
 ```
 
@@ -139,10 +153,10 @@ I care about building things that actually work — clean interfaces, solid APIs
     <img src="https://img.shields.io/badge/Gmail-brilliantshreyas-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
   <a href="https://shreyasitb.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-shreyasitb.is--a.dev-a371f7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-shreyasitb.is--a.dev-6e40c9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:a371f7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:1a0533,100:0d1117&height=120&section=footer" width="100%"/>
