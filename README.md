@@ -56,7 +56,7 @@ I care about building things that actually work — clean interfaces, solid APIs
 </p>
 
 <p align="center">
-  <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/CosmicShreyas/javascript-algorithms-and-data-structures</sub>
+  <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/shreyasbrilliant/javascript-algorithms-and-data-structures</sub>
 </p>
 
 ---
