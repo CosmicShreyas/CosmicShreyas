@@ -50,13 +50,13 @@ I care about building things that actually work — clean interfaces, solid APIs
 ## 🏅 Certifications
 
 <p align="center">
-  <a href="https://www.freecodecamp.org/certification/shreyasbrilliant/javascript-algorithms-and-data-structures" target="_blank">
+  <a href="https://www.freecodecamp.org/certification/shreyasbrilliant/javascript-v9" target="_blank">
     <img src="https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp JS Certificate" />
   </a>
 </p>
 
 <p align="center">
-  <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/shreyasbrilliant/javascript-algorithms-and-data-structures</sub>
+  <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/shreyasbrilliant/javascript-v9</sub>
 </p>
 
 ---
