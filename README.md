@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:1a0533,100:6e40c9&text=Shreyas&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Bengaluru%2C%20India&descSize=20&descColor=b392f0&descAlignY=58&stroke=6e40c9&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:1a0533,100:6e40c9&text=Shreyas&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer%20%E2%80%A2%20Bengaluru%2C%20India&descSize=20&descColor=b392f0&descAlignY=58&stroke=6e40c9&strokeWidth=2" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=CosmicShreyas">
